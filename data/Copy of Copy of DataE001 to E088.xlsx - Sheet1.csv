@@ -1,0 +1,583 @@
+College Name,District,KCET Code,COMEDK Code,Branch Code,Branch Name,Total Regular Intake,Government Quota Seats,COMEDK Seats,Management Seats,SNQ Seats,Government Fee (INR),Private Fee (INR),SNQ Fee (INR)
+University of Visvesvaraya College of Engineering (UVCE),Bangalore Urban,E001,N/A,AI,Artificial Intelligence & Data Science,60,60,0,0,3,56500,N/A,4500
+University of Visvesvaraya College of Engineering (UVCE),Bangalore Urban,E001,N/A,CE,Civil Engineering,120,120,0,0,6,56500,N/A,4500
+University of Visvesvaraya College of Engineering (UVCE),Bangalore Urban,E001,N/A,CS,Computer Science & Engineering,70,70,0,0,4,56500,N/A,4500
+University of Visvesvaraya College of Engineering (UVCE),Bangalore Urban,E001,N/A,EE,Electrical & Electronics Engineering,80,80,0,0,4,56500,N/A,4500
+University of Visvesvaraya College of Engineering (UVCE),Bangalore Urban,E001,N/A,EC,Electronics & Communication Engineering,120,120,0,0,6,56500,N/A,4500
+University of Visvesvaraya College of Engineering (UVCE),Bangalore Urban,E001,N/A,IS,Information Science & Engineering,60,60,0,0,3,56500,N/A,4500
+University of Visvesvaraya College of Engineering (UVCE),Bangalore Urban,E001,N/A,ME,Mechanical Engineering,160,160,0,0,8,56500,N/A,4500
+,,,,,,,,,,,,,
+"Govt. S K S J T Institute of Engineering, Bangalore",Bangalore Urban,E002,N/A (Government Institution),CE,Civil Engineering,60,60,0,0,3,43500,N/A,4500
+"Govt. S K S J T Institute of Engineering, Bangalore",Bangalore Urban,E002,N/A (Government Institution),CS,Computer Science and Engineering,60,60,0,0,3,43500,N/A,4500
+"Govt. S K S J T Institute of Engineering, Bangalore",Bangalore Urban,E002,N/A (Government Institution),EC,Electronics and Communication Engineering,60,60,0,0,3,43500,N/A,4500
+"Govt. S K S J T Institute of Engineering, Bangalore",Bangalore Urban,E002,N/A (Government Institution),ST,Silk Technology,30,30,0,0,2,43500,N/A,4500
+"Govt. S K S J T Institute of Engineering, Bangalore",Bangalore Urban,E002,N/A (Government Institution),TX,Textiles Technology,40,40,0,0,2,43500,N/A,4500
+,,,,,,,,,,,,,
+B.M.S. College of Engineering (Aided),Bangalore Urban,E003,E027,CS,Computer Science & Engineering,120,60,30,30,6,44311,261477,4000
+B.M.S. College of Engineering (Aided),Bangalore Urban,E003,E027,EC,Electronics & Communication Engineering,120,60,30,30,6,44311,261477,4000
+B.M.S. College of Engineering (Aided),Bangalore Urban,E003,E027,ME,Mechanical Engineering,60,30,15,15,3,44311,261477,4000
+B.M.S. College of Engineering (Aided),Bangalore Urban,E003,E027,CV,Civil Engineering,60,30,15,15,3,44311,261477,4000
+B.M.S. College of Engineering (Aided),Bangalore Urban,E003,E027,EE,Electrical & Electronics Engineering,60,30,15,15,3,44311,261477,4000
+,,,,,,,,,,,,,
+Dr. Ambedkar Institute of Technology,Bangalore Urban,E004,E027,CV,Civil Engineering,120,60,36,24,6,44311,261477,4000
+Dr. Ambedkar Institute of Technology,Bangalore Urban,E004,E027,CS,Computer Science and Engineering,180,90,54,36,9,44311,261477,4000
+Dr. Ambedkar Institute of Technology,Bangalore Urban,E004,E027,EE,Electrical & Electronics Engineering,60,30,18,12,3,44311,261477,4000
+Dr. Ambedkar Institute of Technology,Bangalore Urban,E004,E027,EC,Electronics and Communication Engineering,180,90,54,36,9,44311,261477,4000
+Dr. Ambedkar Institute of Technology,Bangalore Urban,E004,E027,EI,Electronics and Instrumentation Engineering,60,30,18,12,3,44311,261477,4000
+Dr. Ambedkar Institute of Technology,Bangalore Urban,E004,E027,TE,Electronics and Telecommunication Engineering,60,30,18,12,3,44311,261477,4000
+Dr. Ambedkar Institute of Technology,Bangalore Urban,E004,E027,IM,Industrial Engineering & Management,60,30,18,12,3,44311,261477,4000
+Dr. Ambedkar Institute of Technology,Bangalore Urban,E004,E027,ME,Mechanical Engineering,120,60,36,24,6,44311,261477,4000
+,,,,,,,,,,,,,
+"R. V. College of Engineering, Bangalore",Bangalore Urban,E005,E095,AS,Aerospace Engineering,60,27,18,15,3,91000,264000,300000
+"R. V. College of Engineering, Bangalore",Bangalore Urban,E005,E095,BT,Bio-Technology,60,27,18,15,3,91000,264000,300000
+"R. V. College of Engineering, Bangalore",Bangalore Urban,E005,E095,CH,Chemical Engineering,60,27,18,15,3,91000,264000,300000
+"R. V. College of Engineering, Bangalore",Bangalore Urban,E005,E095,CV,Civil Engineering,60,27,18,15,3,91000,264000,300000
+"R. V. College of Engineering, Bangalore",Bangalore Urban,E005,E095,AI,Computer Science & Engg (Artificial Intelligence & Machine Learning),60,27,18,15,3,91000,264000,300000
+"R. V. College of Engineering, Bangalore",Bangalore Urban,E005,E095,CS,Computer Science & Engineering,180,81,54,45,9,91000,264000,300000
+"R. V. College of Engineering, Bangalore",Bangalore Urban,E005,E095,CY,Computer Science & Engineering (Cyber Security),60,27,18,15,3,91000,264000,300000
+"R. V. College of Engineering, Bangalore",Bangalore Urban,E005,E095,DS,Computer Science & Engineering (Data Science),60,27,18,15,3,91000,264000,300000
+"R. V. College of Engineering, Bangalore",Bangalore Urban,E005,E095,EE,Electrical & Electronics Engineering,60,27,18,15,3,91000,264000,300000
+"R. V. College of Engineering, Bangalore",Bangalore Urban,E005,E095,EC,Electronics & Communication Engineering,180,81,54,45,9,91000,264000,300000
+"R. V. College of Engineering, Bangalore",Bangalore Urban,E005,E095,TE,Electronics & Telecommunication Engineering,60,27,18,15,3,91000,264000,300000
+"R. V. College of Engineering, Bangalore",Bangalore Urban,E005,E095,IM,Industrial Engineering & Management,60,27,18,15,3,91000,264000,300000
+"R. V. College of Engineering, Bangalore",Bangalore Urban,E005,E095,ME,Mechanical Engineering,120,54,36,30,6,91000,264000,300000
+,,,,,,,,,,,,,
+M S Ramaiah Institute of Technology,Bangalore,E006,E077,AE,Aero Space Engineering,60,27,18,15,3,132910,274000,51110
+M S Ramaiah Institute of Technology,Bangalore,E006,E077,AD,Artificial Intelligence and Data Science,60,27,18,15,3,132910,274000,51110
+M S Ramaiah Institute of Technology,Bangalore,E006,E077,AM,Artificial Intelligence and Machine Learning,60,27,18,15,3,132910,274000,51110
+M S Ramaiah Institute of Technology,Bangalore,E006,E077,BT,Bio Technology,60,27,18,15,3,132910,274000,51110
+M S Ramaiah Institute of Technology,Bangalore,E006,E077,CH,Chemical Engineering,60,27,18,15,3,132910,274000,51110
+M S Ramaiah Institute of Technology,Bangalore,E006,E077,CV,Civil Engineering,60,27,18,15,3,132910,274000,51110
+M S Ramaiah Institute of Technology,Bangalore,E006,E077,CA,Computer Science and Engg(Artificial Intelligence and Machine Learning),60,27,18,15,3,132910,274000,51110
+M S Ramaiah Institute of Technology,Bangalore,E006,E077,CS,Computer Science and Engineering,180,81,54,45,9,132910,274000,51110
+M S Ramaiah Institute of Technology,Bangalore,E006,E077,CY,Computer Science and Engineering (Cyber Security),60,27,18,15,3,132910,274000,51110
+M S Ramaiah Institute of Technology,Bangalore,E006,E077,EE,Electrical & Electronics Engineering,60,27,18,15,3,132910,274000,51110
+M S Ramaiah Institute of Technology,Bangalore,E006,E077,EC,Electronics and Communication Engg,120,54,36,30,6,132910,274000,51110
+M S Ramaiah Institute of Technology,Bangalore,E006,E077,EI,Electronics and Instrumentation Engineering,60,27,18,15,3,132910,274000,51110
+M S Ramaiah Institute of Technology,Bangalore,E006,E077,ET,Electronics and Telecommunication Engineering,60,27,18,15,3,132910,274000,51110
+M S Ramaiah Institute of Technology,Bangalore,E006,E077,IM,Industrial Engineering & Management,60,27,18,15,3,132910,274000,51110
+M S Ramaiah Institute of Technology,Bangalore,E006,E077,IS,Information Science and Engineering,120,54,36,30,6,132910,274000,51110
+M S Ramaiah Institute of Technology,Bangalore,E006,E077,ME,Mechanical Engineering,60,27,18,15,3,132910,274000,51110
+M S Ramaiah Institute of Technology,Bangalore,E006,E077,ML,Medical Electronics Engineering,60,27,18,15,3,132910,274000,51110
+,,,,,,,,,,,,,
+Dayananda Sagar College of Engineering,Bangalore,E007,E040,AE,Aeronautical Engineering,60,27,18,15,3,132910,274000,51110
+Dayananda Sagar College of Engineering,Bangalore,E007,E040,AM,Artificial Intelligence and Machine Learning,60,27,18,15,3,132910,274000,51110
+Dayananda Sagar College of Engineering,Bangalore,E007,E040,AU,Automobile Engineering,60,27,18,15,3,132910,274000,51110
+Dayananda Sagar College of Engineering,Bangalore,E007,E040,BT,Bio-Technology,60,27,18,15,3,132910,274000,51110
+Dayananda Sagar College of Engineering,Bangalore,E007,E040,CH,Chemical Engineering,60,27,18,15,3,132910,274000,51110
+Dayananda Sagar College of Engineering,Bangalore,E007,E040,CV,Civil Engineering,60,27,18,15,3,132910,274000,51110
+Dayananda Sagar College of Engineering,Bangalore,E007,E040,CD,Computer Science and Design,60,27,18,15,3,132910,274000,51110
+Dayananda Sagar College of Engineering,Bangalore,E007,E040,CB,Computer Science and Engg (IoT & Cyber Security Including Block Chain Tech),60,27,18,15,3,132910,274000,51110
+Dayananda Sagar College of Engineering,Bangalore,E007,E040,CS,Computer Science and Engineering,180,81,54,45,9,132910,274000,51110
+Dayananda Sagar College of Engineering,Bangalore,E007,E040,CY,Computer Science and Engineering (Cyber Security),60,27,18,15,3,132910,274000,51110
+Dayananda Sagar College of Engineering,Bangalore,E007,E040,DS,Computer Science and Engineering (Data Science),60,27,18,15,3,132910,274000,51110
+Dayananda Sagar College of Engineering,Bangalore,E007,E040,EE,Electrical & Electronics Engineering,60,27,18,15,3,132910,274000,51110
+Dayananda Sagar College of Engineering,Bangalore,E007,E040,EC,Electronics & Communication Engineering,120,54,36,30,6,132910,274000,51110
+Dayananda Sagar College of Engineering,Bangalore,E007,E040,ET,Electronics & Telecommunication Engineering,60,27,18,15,3,132910,274000,51110
+Dayananda Sagar College of Engineering,Bangalore,E007,E040,IS,Information Science and Engineering,120,54,36,30,6,132910,274000,51110
+Dayananda Sagar College of Engineering,Bangalore,E007,E040,ME,Mechanical Engineering,60,27,18,15,3,132910,274000,51110
+Dayananda Sagar College of Engineering,Bangalore,E007,E040,ML,Medical Electronics Engineering,60,27,18,15,3,132910,274000,51110
+Dayananda Sagar College of Engineering,Bangalore,E007,E040,RA,Robotics and Artificial Intelligence,60,27,18,15,3,132910,274000,51110
+,,,,,,,,,,,,,
+"Bangalore Institute of Technology, Bangalore",Bangalore,E008,E019,AM,Artificial Intelligence and Machine Learning,60,27,18,15,3,132910,274000,51110
+"Bangalore Institute of Technology, Bangalore",Bangalore,E008,E019,CV,Civil Engineering,60,27,18,15,3,132910,274000,51110
+"Bangalore Institute of Technology, Bangalore",Bangalore,E008,E019,CB,Computer Science and Engg(Internet of Things & Cyber Security Including Block Chain Tech),60,27,18,15,3,132910,274000,51110
+"Bangalore Institute of Technology, Bangalore",Bangalore,E008,E019,CS,Computer Science and Engineering,180,81,54,45,9,132910,274000,51110
+"Bangalore Institute of Technology, Bangalore",Bangalore,E008,E019,DS,Computer Science and Engineering(Data Science),60,27,18,15,3,132910,274000,51110
+"Bangalore Institute of Technology, Bangalore",Bangalore,E008,E019,EE,Electrical & Electronics Engineering,60,27,18,15,3,132910,274000,51110
+"Bangalore Institute of Technology, Bangalore",Bangalore,E008,E019,VL,Electronics Engineering(VLSI Design & Technology),60,27,18,15,3,132910,274000,51110
+"Bangalore Institute of Technology, Bangalore",Bangalore,E008,E019,EC,Electronics and Communication Engg,180,81,54,45,9,132910,274000,51110
+"Bangalore Institute of Technology, Bangalore",Bangalore,E008,E019,EI,Electronics and Instrumentation Engineering,60,27,18,15,3,132910,274000,51110
+"Bangalore Institute of Technology, Bangalore",Bangalore,E008,E019,ET,Electronics and Telecommunication Engineering,60,27,18,15,3,132910,274000,51110
+"Bangalore Institute of Technology, Bangalore",Bangalore,E008,E019,IS,Information Science and Engineering,120,54,36,30,6,132910,274000,51110
+"Bangalore Institute of Technology, Bangalore",Bangalore,E008,E019,ME,Mechanical Engineering,60,27,18,15,3,132910,274000,51110
+"Bangalore Institute of Technology, Bangalore",Bangalore,E008,E019,RA,Robotics and Artificial Intelligence,60,27,18,15,3,132910,274000,51110
+,,,,,,,,,,,,,
+"PES University, Banashankari, Bangalore",Bangalore,E009,N/A,BT,B Tech in Bio-Technology,60,27,18,15,3,132910,274000,51110
+"PES University, Banashankari, Bangalore",Bangalore,E009,N/A,AM,B Tech in Computer Science & Engineering (Artificial Intelligence & Machine Learning),180,81,54,45,9,132910,274000,51110
+"PES University, Banashankari, Bangalore",Bangalore,E009,N/A,CS,B Tech in Computer Science and Engineering,360,162,108,90,18,132910,274000,51110
+"PES University, Banashankari, Bangalore",Bangalore,E009,N/A,EE,B Tech in Electrical & Electronics Engineering,60,27,18,15,3,132910,274000,51110
+"PES University, Banashankari, Bangalore",Bangalore,E009,N/A,EC,B Tech in Electronics & Communication Engineering,180,81,54,45,9,132910,274000,51110
+"PES University, Banashankari, Bangalore",Bangalore,E009,N/A,ME,B Tech in Mechanical Engineering,60,27,18,15,3,132910,274000,51110
+,,,,,,,,,,,,,
+MVJ College of Engineering,Bangalore,E011,E084,AE,Aero Space Engineering,60,27,18,15,3,130320,264000,32320
+MVJ College of Engineering,Bangalore,E011,E084,AN,Aeronautical Engineering,60,27,18,15,3,130320,264000,32320
+MVJ College of Engineering,Bangalore,E011,E084,AM,Artificial Intelligence and Machine Learning,60,27,18,15,3,130320,264000,32320
+MVJ College of Engineering,Bangalore,E011,E084,CH,Chemical Engineering,30,13,9,8,1,130320,264000,32320
+MVJ College of Engineering,Bangalore,E011,E084,CV,Civil Engineering,30,13,9,8,1,130320,264000,32320
+MVJ College of Engineering,Bangalore,E011,E084,CD,Computer Science and Design,60,27,18,15,3,130320,264000,32320
+MVJ College of Engineering,Bangalore,E011,E084,CS,Computer Science and Engineering,180,81,54,45,9,130320,264000,32320
+MVJ College of Engineering,Bangalore,E011,E084,DS,Computer Science and Engineering (Data Science),60,27,18,15,3,130320,264000,32320
+MVJ College of Engineering,Bangalore,E011,E084,EE,Electrical & Electronics Engineering,30,13,9,8,1,130320,264000,32320
+MVJ College of Engineering,Bangalore,E011,E084,VL,Electronics Engineering (VLSI Design & Technology),60,27,18,15,3,130320,264000,32320
+MVJ College of Engineering,Bangalore,E011,E084,AC,Electronics & Communication (Advanced Communication Technology),60,27,18,15,3,130320,264000,32320
+MVJ College of Engineering,Bangalore,E011,E084,EC,Electronics & Communication Engineering,120,54,36,30,6,130320,264000,32320
+MVJ College of Engineering,Bangalore,E011,E084,IL,Industrial IoT,30,13,9,8,1,130320,264000,32320
+MVJ College of Engineering,Bangalore,E011,E084,IS,Information Science and Engineering,120,54,36,30,6,130320,264000,32320
+MVJ College of Engineering,Bangalore,E011,E084,ME,Mechanical Engineering,30,13,9,8,1,130320,264000,32320
+,,,,,,,,,,,,,
+Sir M.Visvesvaraya Institute of Technology,Bangalore,E012,E126,AM,Artificial Intelligence and Machine Learning,60,27,18,15,3,130320,264000,32320
+Sir M.Visvesvaraya Institute of Technology,Bangalore,E012,E126,BT,Bio-Technology,60,27,18,15,3,130320,264000,32320
+Sir M.Visvesvaraya Institute of Technology,Bangalore,E012,E126,CV,Civil Engineering,60,27,18,15,3,130320,264000,32320
+Sir M.Visvesvaraya Institute of Technology,Bangalore,E012,E126,CB,Computer Science & Engg (Internet of Things & Cyber Security Including Block Chain Tech),60,27,18,15,3,130320,264000,32320
+Sir M.Visvesvaraya Institute of Technology,Bangalore,E012,E126,CS,Computer Science and Engineering,180,81,54,45,9,130320,264000,32320
+Sir M.Visvesvaraya Institute of Technology,Bangalore,E012,E126,DS,Computer Science and Engineering (Data Science),60,27,18,15,3,130320,264000,32320
+Sir M.Visvesvaraya Institute of Technology,Bangalore,E012,E126,EE,Electrical & Electronics Engineering,60,27,18,15,3,130320,264000,32320
+Sir M.Visvesvaraya Institute of Technology,Bangalore,E012,E126,EM,Electronics & Computer Engineering,60,27,18,15,3,130320,264000,32320
+Sir M.Visvesvaraya Institute of Technology,Bangalore,E012,E126,EC,Electronics and Communication Engg,120,54,36,30,6,130320,264000,32320
+Sir M.Visvesvaraya Institute of Technology,Bangalore,E012,E126,ET,Electronics and Telecommunication Engineering,60,27,18,15,3,130320,264000,32320
+Sir M.Visvesvaraya Institute of Technology,Bangalore,E012,E126,IS,Information Science and Engineering,120,54,36,30,6,130320,264000,32320
+Sir M.Visvesvaraya Institute of Technology,Bangalore,E012,E126,ME,Mechanical Engineering,60,27,18,15,3,130320,264000,32320
+,,,,,,,,,,,,,
+Ghousia Engineering College,Ramanagara,E013 ,E053,AI,Artificial Intelligence and Machine Learning,60,27,18,15,3,130320,264000,32320
+Ghousia Engineering College,Ramanagara,E013 ,E053,CV,Civil Engineering,30,13,9,7,1,130320,264000,32320
+Ghousia Engineering College,Ramanagara,E013 ,E053,CS,Computer Science and Engineering,60,27,18,15,3,130320,264000,32320
+Ghousia Engineering College,Ramanagara,E013 ,E053,CY,Computer Science and Engineering (Cyber Security),60,27,18,15,3,130320,264000,32320
+Ghousia Engineering College,Ramanagara,E013 ,E053,EE,Electrical & Electronics Engineering,30,13,9,7,1,130320,264000,32320
+Ghousia Engineering College,Ramanagara,E013 ,E053,EC,Electronics & Communication Engineering,60,27,18,15,3,130320,264000,32320
+Ghousia Engineering College,Ramanagara,E013 ,E053,IS,Information Science and Engineering,60,27,18,15,3,130320,264000,32320
+Ghousia Engineering College,Ramanagara,E013 ,E053,RA,Robotics and Artificial Intelligence,30,13,9,7,1,130320,264000,32320
+,,,,,,,,,,,,,
+S J C Institute of Technology,Chickballapur,E014,E108,CS,Computer Science & Engineering,180,81,54,45,9,113205,220000,500000
+S J C Institute of Technology,Chickballapur,E014,E108,IS,Information Science & Engineering,120,54,36,30,6,113205,220000,300000
+S J C Institute of Technology,Chickballapur,E014,E108,EC,Electronics & Communication Engineering,120,54,36,30,6,113205,220000,300000
+S J C Institute of Technology,Chickballapur,E014,E108,CV,Civil Engineering,60,27,18,15,3,113205,220000,150000
+S J C Institute of Technology,Chickballapur,E014,E108,ME,Mechanical Engineering,60,27,18,15,3,113205,220000,150000
+S J C Institute of Technology,Chickballapur,E014,E108,AE,Aeronautical Engineering,60,27,18,15,3,113205,220000,250000
+S J C Institute of Technology,Chickballapur,E014,E108,AS,Aerospace Engineering,60,27,18,15,3,113205,220000,250000
+S J C Institute of Technology,Chickballapur,E014,E108,AI,Artificial Intelligence & Machine Learning,60,27,18,15,3,113205,220000,350000
+S J C Institute of Technology,Chickballapur,E014,E108,AD,Artificial Intelligence & Data Science,60,27,18,15,3,113205,220000,350000
+S J C Institute of Technology,Chickballapur,E014,E108,CD,Computer Science & Design,60,27,18,15,3,113205,220000,300000
+,,,,,,,,,,,,,
+Dr. T. Thimmaiah Institute of Technology,Kolar,E015,E045,CS,Computer Science & Engineering,180,81,54,45,9,112410,165000,150000
+Dr. T. Thimmaiah Institute of Technology,Kolar,E015,E045,AI,Artificial Intelligence & Machine Learning,60,27,18,15,3,112410,165000,150000
+Dr. T. Thimmaiah Institute of Technology,Kolar,E015,E045,EC,Electronics & Communication Engineering,60,27,18,15,3,112410,165000,125000
+Dr. T. Thimmaiah Institute of Technology,Kolar,E015,E045,EE,Electrical & Electronics Engineering,30,13,9,8,2,112410,165000,100000
+Dr. T. Thimmaiah Institute of Technology,Kolar,E015,E045,ME,Mechanical Engineering,30,13,9,8,2,112410,165000,100000
+Dr. T. Thimmaiah Institute of Technology,Kolar,E015,E045,MI,Mining Engineering,30,13,9,8,2,112410,165000,100000
+,,,,,,,,,,,,,
+Siddaganga Institute of Technology,Tumkur,E016,E125,BT,Bio-Technology,30,13,9,7,1,130320,264000,32320
+Siddaganga Institute of Technology,Tumkur,E016,E125,CH,Chemical Engineering,30,13,9,7,1,130320,264000,32320
+Siddaganga Institute of Technology,Tumkur,E016,E125,CV,Civil Engineering,60,27,18,15,3,130320,264000,32320
+Siddaganga Institute of Technology,Tumkur,E016,E125,CA,Computer Science and Engg (Artificial Intelligence and Machine Learning),60,27,18,15,3,130320,264000,32320
+Siddaganga Institute of Technology,Tumkur,E016,E125,CS,Computer Science and Engineering,180,81,54,45,9,130320,264000,32320
+Siddaganga Institute of Technology,Tumkur,E016,E125,EE,Electrical & Electronics Engineering,60,27,18,15,3,130320,264000,32320
+Siddaganga Institute of Technology,Tumkur,E016,E125,EC,Electronics & Communication Engineering,120,54,36,30,6,130320,264000,32320
+Siddaganga Institute of Technology,Tumkur,E016,E125,EI,Electronics & Instrumentation Engineering,60,27,18,15,3,130320,264000,32320
+Siddaganga Institute of Technology,Tumkur,E016,E125,ET,Electronics & Telecommunication Engineering,60,27,18,15,3,130320,264000,32320
+Siddaganga Institute of Technology,Tumkur,E016,E125,IM,Industrial Engineering & Management,30,13,9,7,1,130320,264000,32320
+Siddaganga Institute of Technology,Tumkur,E016,E125,IS,Information Science and Engineering,120,54,36,30,6,130320,264000,32320
+Siddaganga Institute of Technology,Tumkur,E016,E125,ME,Mechanical Engineering,60,27,18,15,3,130320,264000,32320
+,,,,,,,,,,,,,
+"Sri Siddhartha Institute of Technology, Tumkur", Tumkur,E017,E135,AM,Artificial Intelligence and Machine Learning,60,27,18,15,3,130320,264000,32320
+"Sri Siddhartha Institute of Technology, Tumkur", Tumkur,E017,E135,BM,Bio-Medical Engineering,30,13,9,7,1,130320,264000,32320
+"Sri Siddhartha Institute of Technology, Tumkur", Tumkur,E017,E135,CV,Civil Engineering,30,13,9,7,1,130320,264000,32320
+"Sri Siddhartha Institute of Technology, Tumkur", Tumkur,E017,E135,CS,Computer Science and Engineering,120,54,36,30,6,130320,264000,32320
+"Sri Siddhartha Institute of Technology, Tumkur", Tumkur,E017,E135,CY,Computer Science and Engineering (Cyber Security),60,27,18,15,3,130320,264000,32320
+"Sri Siddhartha Institute of Technology, Tumkur", Tumkur,E017,E135,DS,Computer Science and Engineering (Data Science),60,27,18,15,3,130320,264000,32320
+"Sri Siddhartha Institute of Technology, Tumkur", Tumkur,E017,E135,EE,Electrical & Electronics Engineering,60,27,18,15,3,130320,264000,32320
+"Sri Siddhartha Institute of Technology, Tumkur", Tumkur,E017,E135,EC,Electronics & Communication Engineering,120,54,36,30,6,130320,264000,32320
+"Sri Siddhartha Institute of Technology, Tumkur", Tumkur,E017,E135,ET,Electronics & Telecommunication Engineering,60,27,18,15,3,130320,264000,32320
+"Sri Siddhartha Institute of Technology, Tumkur", Tumkur,E017,E135,IS,Information Science and Engineering,60,27,18,15,3,130320,264000,32320
+"Sri Siddhartha Institute of Technology, Tumkur", Tumkur,E017,E135,ME,Mechanical Engineering,30,13,9,7,1,130320,264000,32320
+"Sri Siddhartha Institute of Technology, Tumkur", Tumkur,E017,E135,RA,Robotics and Artificial Intelligence,30,13,9,7,1,130320,264000,32320
+,,,,,,,,,,,,,
+Kalpatharu Institute of Technology,Tumkur,E018,E070,AM,Artificial Intelligence and Machine Learning,60,27,18,15,3,130320,264000,32320
+Kalpatharu Institute of Technology,Tumkur,E018,E070,CV,Civil Engineering,30,13,9,8,1,130320,264000,32320
+Kalpatharu Institute of Technology,Tumkur,E018,E070,CS,Computer Science and Engineering,120,54,36,30,6,130320,264000,32320
+Kalpatharu Institute of Technology,Tumkur,E018,E070,EC,Electronics & Communication Engineering,60,27,18,15,3,130320,264000,32320
+Kalpatharu Institute of Technology,Tumkur,E018,E070,IS,Information Science and Engineering,60,27,18,15,3,130320,264000,32320
+Kalpatharu Institute of Technology,Tumkur,E018,E070,ME,Mechanical Engineering,30,13,9,8,1,130320,264000,32320
+,,,,,,,,,,,,,
+Sri Jayachamarajendra College of Engineering,Mysore,E021,E058,CV,Civil Engineering,60,27,18,15,3,130320,264000,32320
+Sri Jayachamarajendra College of Engineering,Mysore,E021,E058,CS,Computer Science and Engineering,120,54,36,30,6,130320,264000,32320
+Sri Jayachamarajendra College of Engineering,Mysore,E021,E058,EE,Electrical & Electronics Engineering,60,27,18,15,3,130320,264000,32320
+Sri Jayachamarajendra College of Engineering,Mysore,E021,E058,EI,Electronics & Instrumentation Engineering,60,27,18,15,3,130320,264000,32320
+Sri Jayachamarajendra College of Engineering,Mysore,E021,E058,EC,Electronics & Communication Engineering,120,54,36,30,6,130320,264000,32320
+Sri Jayachamarajendra College of Engineering,Mysore,E021,E058,EV,Environmental Engineering,30,14,9,8,2,130320,264000,32320
+Sri Jayachamarajendra College of Engineering,Mysore,E021,E058,IP,Industrial & Production Engineering,30,14,9,8,2,130320,264000,32320
+Sri Jayachamarajendra College of Engineering,Mysore,E021,E058,ME,Mechanical Engineering,60,27,18,15,3,130320,264000,32320
+Sri Jayachamarajendra College of Engineering,Mysore,E021,E058,PT,Polymer Science & Technology,30,14,9,8,2,130320,264000,32320
+,,,,,,,,,,,,,
+The National Institute of Engineering (South Campus),Mysore,E022,E142,CV,Civil Engineering,60,27,18,15,3,130320,264000,32320
+The National Institute of Engineering (South Campus),Mysore,E022,E142,EC,Electronics & Communication Engineering,60,27,18,15,3,130320,264000,32320
+The National Institute of Engineering (South Campus),Mysore,E022,E142,ME,Mechanical Engineering,60,27,18,15,3,130320,264000,32320
+,,,,,,,,,,,,,
+P E S College of Engineering,Mandya,E023,E094,CV,Civil Engineering,60,27,18,15,3,130320,264000,32320
+P E S College of Engineering,Mandya,E023,E094,EE,Electrical & Electronics Engineering,60,27,18,15,3,130320,264000,32320
+P E S College of Engineering,Mandya,E023,E094,EC,Electronics & Communication Engineering,60,27,18,15,3,130320,264000,32320
+P E S College of Engineering,Mandya,E023,E094,ME,Mechanical Engineering,60,27,18,15,3,130320,264000,32320
+,,,,,,,,,,,,,
+Malnad College of Engineering,Hassan,E024,E079,CV,Civil Engineering,60,27,18,15,3,130320,264000,32320
+Malnad College of Engineering,Hassan,E024,E079,EE,Electrical & Electronics Engineering,60,27,18,15,3,130320,264000,32320
+Malnad College of Engineering,Hassan,E024,E079,EC,Electronics & Communication Engineering,60,27,18,15,3,130320,264000,32320
+Malnad College of Engineering,Hassan,E024,E079,ME,Mechanical Engineering,60,27,18,15,3,130320,264000,32320
+,,,,,,,,,,,,,
+Basaveshwar Engineering College,Bagalkot,E031,E024,CE,Civil Engineering,60,60,0,0,3,47100,0,30000
+Basaveshwar Engineering College,Bagalkot,E031,E024,ME,Mechanical Engineering,90,90,0,0,5,47100,0,30000
+Basaveshwar Engineering College,Bagalkot,E031,E024,CS,Computer Science & Engineering,30,30,0,0,2,47100,0,30000
+Basaveshwar Engineering College,Bagalkot,E031,E024,EC,Electronics & Communication Engineering,60,60,0,0,3,47100,0,30000
+Basaveshwar Engineering College,Bagalkot,E031,E024,EE,Electrical & Electronics Engineering,30,30,0,0,2,47100,0,30000
+Basaveshwar Engineering College,Bagalkot,E031,E024,IP,Industrial & Production Engineering,30,30,0,0,2,47100,0,30000
+,,,,,,,,,,,,,
+R.T.E. Society's Rural Engineering College,Gadag,E032,E098,CS,Computer Science & Engineering,60,27,0,33,3,96574,0,30000
+R.T.E. Society's Rural Engineering College,Gadag,E032,E098,EC,Electronics & Communication Engg,30,13,0,17,2,96574,0,30000
+R.T.E. Society's Rural Engineering College,Gadag,E032,E098,CV,Civil Engineering,30,13,0,17,2,96574,0,30000
+R.T.E. Society's Rural Engineering College,Gadag,E032,E098,ME,Mechanical Engineering,30,13,0,17,2,96574,0,30000
+R.T.E. Society's Rural Engineering College,Gadag,E032,E098,TX,Textile Technology,30,13,0,17,2,96574,0,30000
+,,,,,,,,,,,,,
+Sri Taralabalu Jagadguru Institute of Technology,Haveri,E033,E136,CS,Computer Science and Engineering,120,54,30,30,6,120320,264000,32320
+Sri Taralabalu Jagadguru Institute of Technology,Haveri,E033,E136,EC,Electronics and Communication Engineering,60,27,15,15,3,120320,180000,32320
+Sri Taralabalu Jagadguru Institute of Technology,Haveri,E033,E136,IS,Information Science and Engineering,60,27,15,15,3,120320,220000,32320
+Sri Taralabalu Jagadguru Institute of Technology,Haveri,E033,E136,CV,Civil Engineering,30,14,8,8,2,120320,90000,32320
+Sri Taralabalu Jagadguru Institute of Technology,Haveri,E033,E136,EE,Electrical and Electronics Engineering,30,14,8,8,2,120320,90000,32320
+,,,,,,,,,,,,,
+"SDM College of Engineering, Dharwad",Dharwad,E034,E117,AI,Artificial Intelligence and Machine Learning,60,24,18,18,3,130320,261410,32320
+"SDM College of Engineering, Dharwad",Dharwad,E034,E117,CH,Chemical Engineering,60,24,18,18,3,130320,261410,32320
+"SDM College of Engineering, Dharwad",Dharwad,E034,E117,CE,Civil Engineering,60,24,18,18,3,130320,261410,32320
+"SDM College of Engineering, Dharwad",Dharwad,E034,E117,CS,Computer Science and Engineering,180,72,54,54,9,130320,261410,32320
+"SDM College of Engineering, Dharwad",Dharwad,E034,E117,EE,Electrical & Electronics Engineering,60,24,18,18,3,130320,261410,32320
+"SDM College of Engineering, Dharwad",Dharwad,E034,E117,EC,Electronics and Communication Engineering,120,48,36,36,6,130320,261410,32320
+"SDM College of Engineering, Dharwad",Dharwad,E034,E117,IS,Information Science and Engineering,120,48,36,36,6,130320,261410,32320
+"SDM College of Engineering, Dharwad",Dharwad,E034,E117,ME,Mechanical Engineering,60,24,18,18,3,130320,261410,32320
+,,,,,,,,,,,,,
+"Anjuman Institute of Technology & Management, Bhatkal",Bhatkal,E035,N/A,AI,Computer Science and Engg(Artificial Intelligence and Machine Learning),60,24,18,18,3,120320,220000,32320
+"Anjuman Institute of Technology & Management, Bhatkal",Bhatkal,E035,N/A,CE,Civil Engineering,60,24,18,18,3,120320,220000,32320
+"Anjuman Institute of Technology & Management, Bhatkal",Bhatkal,E035,N/A,CS,Computer Science and Engineering,120,48,36,36,6,120320,220000,32320
+"Anjuman Institute of Technology & Management, Bhatkal",Bhatkal,E035,N/A,DS,Computer Science and Engineering(Data Science),60,24,18,18,3,120320,220000,32320
+"Anjuman Institute of Technology & Management, Bhatkal",Bhatkal,E035,N/A,EE,Electrical & Electronics Engineering,60,24,18,18,3,120320,220000,32320
+"Anjuman Institute of Technology & Management, Bhatkal",Bhatkal,E035,N/A,EC,Electronics and Communication Engineering,60,24,18,18,3,120320,220000,32320
+"Anjuman Institute of Technology & Management, Bhatkal",Bhatkal,E035,N/A,ME,Mechanical Engineering,60,24,18,18,3,120320,220000,32320
+"Anjuman Institute of Technology & Management, Bhatkal",Bhatkal,E035,N/A,RI,Robotics and Artificial Intelligence,60,24,18,18,3,120320,220000,32320
+,,,,,,,,,,,,,
+"KLE Technological University, Belgaum Campus, Belgaum", Belgaum,E036,E065,BM,Bio-Medical Engineering,30,12,9,9,2,130320,261410,32320
+"KLE Technological University, Belgaum Campus, Belgaum", Belgaum,E036,E065,CH,Chemical Engineering,30,12,9,9,2,130320,261410,32320
+"KLE Technological University, Belgaum Campus, Belgaum", Belgaum,E036,E065,CE,Civil Engineering,60,24,18,18,3,130320,261410,32320
+"KLE Technological University, Belgaum Campus, Belgaum", Belgaum,E036,E065,CS,Computer Science and Engineering,180,72,54,54,9,130320,261410,32320
+"KLE Technological University, Belgaum Campus, Belgaum", Belgaum,E036,E065,CA,Computer Science and Engg (Artificial Intelligence),60,24,18,18,3,130320,261410,32320
+"KLE Technological University, Belgaum Campus, Belgaum", Belgaum,E036,E065,EE,Electrical & Electronics Engineering,60,24,18,18,3,130320,261410,32320
+"KLE Technological University, Belgaum Campus, Belgaum", Belgaum,E036,E065,EC,Electronics and Communication Engineering,120,48,36,36,6,130320,261410,32320
+,,,,,,,,,,,,,
+K.L.S. Gogte Institute of Technology,Belagavi,E037,E073,AI,ARTIFICIAL INTELLIGENCE AND DATA SCIENCE,60,27,18,15,3,47100,261477,17910
+K.L.S. Gogte Institute of Technology,Belagavi,E037,E073,CE,CIVIL ENGINEERING,120,54,36,30,6,29985,261477,17910
+K.L.S. Gogte Institute of Technology,Belagavi,E037,E073,CS,COMPUTER SCIENCE AND ENGINEERING,180,81,54,45,9,47100,261477,17910
+K.L.S. Gogte Institute of Technology,Belagavi,E037,E073,EE,ELECTRICAL & ELECTRONICS ENGINEERING,60,27,18,15,3,47100,261477,17910
+K.L.S. Gogte Institute of Technology,Belagavi,E037,E073,EC,ELECTRONICS AND COMMUNICATION ENGG,180,81,54,45,9,47100,261477,17910
+K.L.S. Gogte Institute of Technology,Belagavi,E037,E073,IS,INFORMATION SCIENCE AND ENGINEERING,120,54,36,30,6,47100,261477,17910
+K.L.S. Gogte Institute of Technology,Belagavi,E037,E073,ME,MECHANICAL ENGINEERING,120,54,36,30,6,29985,261477,17910
+K.L.S. Gogte Institute of Technology,Belagavi,E037,E073,AE,AERONAUTICAL ENGINEERING,60,27,18,15,3,47100,261477,17910
+,,,,,,,,,,,,,
+"BLDEA's VP. Dr.P.G. Hallakatti College of Engineering & Technology, Bijapur",Bijapur,E038,E026,AI,Artificial Intelligence and Machine Learning,60,24,18,18,3,120320,220000,32320
+"BLDEA's VP. Dr.P.G. Hallakatti College of Engineering & Technology, Bijapur",Bijapur,E038,E026,CE,Civil Engineering,60,24,18,18,3,120320,220000,32320
+"BLDEA's VP. Dr.P.G. Hallakatti College of Engineering & Technology, Bijapur",Bijapur,E038,E026,CS,Computer Science and Engineering,180,72,54,54,9,120320,220000,32320
+"BLDEA's VP. Dr.P.G. Hallakatti College of Engineering & Technology, Bijapur",Bijapur,E038,E026,DS,Computer Science and Engineering (Data Science),60,24,18,18,3,120320,220000,32320
+"BLDEA's VP. Dr.P.G. Hallakatti College of Engineering & Technology, Bijapur",Bijapur,E038,E026,EE,Electrical & Electronics Engineering,60,24,18,18,3,120320,220000,32320
+"BLDEA's VP. Dr.P.G. Hallakatti College of Engineering & Technology, Bijapur",Bijapur,E038,E026,EC,Electronics and Communication Engineering,120,48,36,36,6,120320,220000,32320
+"BLDEA's VP. Dr.P.G. Hallakatti College of Engineering & Technology, Bijapur",Bijapur,E038,E026,IS,Information Science and Engineering,60,24,18,18,3,120320,220000,32320
+"BLDEA's VP. Dr.P.G. Hallakatti College of Engineering & Technology, Bijapur",Bijapur,E038,E026,ME,Mechanical Engineering,60,24,18,18,3,120320,220000,32320
+,,,,,,,,,,,,,
+"Hira Sugar Institute of Technology, Nidasoshi, Belgaum",Belgaum,E040,E111,CS,Computer Science and Engineering,120,54,36,30,6,130320,180000,30000
+"Hira Sugar Institute of Technology, Nidasoshi, Belgaum",Belgaum,E040,E111,EC,Electronics and Communication Engineering,60,27,18,15,3,130320,150000,30000
+"Hira Sugar Institute of Technology, Nidasoshi, Belgaum",Belgaum,E040,E111,EE,Electrical & Electronics Engineering,30,13,9,8,2,130320,140000,30000
+"Hira Sugar Institute of Technology, Nidasoshi, Belgaum",Belgaum,E040,E111,ME,Mechanical Engineering,30,13,9,8,2,130320,140000,30000
+,,,,,,,,,,,,,
+P D A College of Engineering (Aided),Kalaburagi (Gulbarga),E041,N/A,CV,Civil Engineering,60,57,0,3,3,42866,0,30000
+P D A College of Engineering (Aided),Kalaburagi (Gulbarga),E041,N/A,EE,Electrical & Electronics Engineering,60,57,0,3,3,42866,0,30000
+P D A College of Engineering (Aided),Kalaburagi (Gulbarga),E041,N/A,EC,Electronics and Communication Engineering,60,57,0,3,3,42866,0,30000
+P D A College of Engineering (Aided),Kalaburagi (Gulbarga),E041,N/A,IP,Industrial & Production Engineering,30,28,0,2,2,42866,0,30000
+P D A College of Engineering (Aided),Kalaburagi (Gulbarga),E041,N/A,ME,Mechanical Engineering,60,57,0,3,3,42866,0,30000
+,,,,,,,,,,,,,
+Khaja Bandanawaz University (KBNU),Kalaburagi (Gulbarga),E042,E042,AE,Aeronautical Engineering,30,14,9,7,2,121610,244000,30000
+Khaja Bandanawaz University (KBNU),Kalaburagi (Gulbarga),E042,E042,CV,Civil Engineering,30,14,9,7,2,121610,244000,30000
+Khaja Bandanawaz University (KBNU),Kalaburagi (Gulbarga),E042,E042,CS,Computer Science and Engineering,60,27,18,15,3,121610,244000,30000
+Khaja Bandanawaz University (KBNU),Kalaburagi (Gulbarga),E042,E042,EC,Electronics and Communication Engineering,30,14,9,7,2,121610,244000,30000
+Khaja Bandanawaz University (KBNU),Kalaburagi (Gulbarga),E042,E042,ME,Mechanical Engineering,30,14,9,7,2,121610,244000,30000
+,,,,,,,,,,,,,
+Guru Nanak Dev Engineering College,Bidar,E043,E043,CS,Computer Science and Engineering,180,81,54,45,9,121610,244000,30000
+Guru Nanak Dev Engineering College,Bidar,E043,E043,AI,Artificial Intelligence and Machine Learning,60,27,18,15,3,121610,244000,30000
+Guru Nanak Dev Engineering College,Bidar,E043,E043,IS,Information Science and Engineering,60,27,18,15,3,121610,244000,30000
+Guru Nanak Dev Engineering College,Bidar,E043,E043,EC,Electronics and Communication Engineering,60,27,18,15,3,121610,244000,30000
+Guru Nanak Dev Engineering College,Bidar,E043,E043,EE,Electrical and Electronics Engineering,30,14,9,7,2,121610,244000,30000
+Guru Nanak Dev Engineering College,Bidar,E043,E043,CV,Civil Engineering,30,14,9,7,2,121610,244000,30000
+Guru Nanak Dev Engineering College,Bidar,E043,E043,ME,Mechanical Engineering,30,14,9,7,2,121610,244000,30000
+,,,,,,,,,,,,,
+Bheemanna Khandre Institute of Technology,Bidar,E044,E105,CH,Chemical Engineering,30,14,9,7,2,121610,244000,30000
+Bheemanna Khandre Institute of Technology,Bidar,E044,E105,CV,Civil Engineering,30,14,9,7,2,121610,244000,30000
+Bheemanna Khandre Institute of Technology,Bidar,E044,E105,CS,Computer Science and Engineering,60,27,18,15,3,121610,244000,30000
+Bheemanna Khandre Institute of Technology,Bidar,E044,E105,AI,Computer Science and Engineering (Artificial Intelligence and Machine Learning),30,14,9,7,2,121610,244000,30000
+Bheemanna Khandre Institute of Technology,Bidar,E044,E105,CB,Computer Science and Engineering (Cyber Security),30,14,9,7,2,121610,244000,30000
+Bheemanna Khandre Institute of Technology,Bidar,E044,E105,DS,Computer Science and Engineering (Data Science),30,14,9,7,2,121610,244000,30000
+Bheemanna Khandre Institute of Technology,Bidar,E044,E105,EC,Electronics and Communication Engineering,30,14,9,7,2,121610,244000,30000
+Bheemanna Khandre Institute of Technology,Bidar,E044,E105,ME,Mechanical Engineering,30,14,9,7,2,121610,244000,30000
+,,,,,,,,,,,,,
+Rao Bahadur Y.Mahabaleswarappa Engineering College,Ballari ,E045,E102,CV,Civil Engineering,30,14,9,7,2,121610,244000,30000
+Rao Bahadur Y.Mahabaleswarappa Engineering College,Ballari ,E045,E102,AI,Computer Science and Engg(Artificial Intelligence and Machine Learning),60,27,18,15,3,121610,244000,30000
+Rao Bahadur Y.Mahabaleswarappa Engineering College,Ballari ,E045,E102,CS,Computer Science and Engineering,180,81,54,45,9,121610,244000,30000
+Rao Bahadur Y.Mahabaleswarappa Engineering College,Ballari ,E045,E102,CB,Computer Science and Engineering (Cyber Security),60,27,18,15,3,121610,244000,30000
+Rao Bahadur Y.Mahabaleswarappa Engineering College,Ballari ,E045,E102,DS,Computer Science and Engineering(Data Science),60,27,18,15,3,121610,244000,30000
+Rao Bahadur Y.Mahabaleswarappa Engineering College,Ballari ,E045,E102,EE,Electrical & Electronics Engineering,30,14,9,7,2,121610,244000,30000
+Rao Bahadur Y.Mahabaleswarappa Engineering College,Ballari ,E045,E102,EC,Electronics and Communication Engg,120,54,36,30,6,121610,244000,30000
+Rao Bahadur Y.Mahabaleswarappa Engineering College,Ballari ,E045,E102,IS,Information Science and Engineering,60,27,18,15,3,121610,244000,30000
+Rao Bahadur Y.Mahabaleswarappa Engineering College,Ballari ,E045,E102,ME,Mechanical Engineering,30,14,9,7,2,121610,244000,30000
+,,,,,,,,,,,,,
+H K E's Society's Sir M Visvesvaraya College of Engineering,Raichur,E046,E204,CV,Civil Engineering,30,14,9,7,2,121610,244000,30000
+H K E's Society's Sir M Visvesvaraya College of Engineering,Raichur,E046,E204,CS,Computer Science and Engineering,60,27,18,15,3,121610,244000,30000
+H K E's Society's Sir M Visvesvaraya College of Engineering,Raichur,E046,E204,EC,Electronics and Communication Engineering,30,14,9,7,2,121610,244000,30000
+H K E's Society's Sir M Visvesvaraya College of Engineering,Raichur,E046,E204,ME,Mechanical Engineering,30,14,9,7,2,121610,244000,30000
+,,,,,,,,,,,,,
+Malnad College of Engineering,Hassan,E047,E079,CV,Civil Engineering,60,27,18,15,3,121610,244000,30000
+Malnad College of Engineering,Hassan,E047,E079,CB,Computer Science and Business Systems,60,27,18,15,3,121610,244000,30000
+Malnad College of Engineering,Hassan,E047,E079,AI,CSE - Artificial Intelligence and Machine Learning,60,27,18,15,3,121610,244000,30000
+Malnad College of Engineering,Hassan,E047,E079,CS,Computer Science and Engineering,120,54,36,30,6,121610,244000,30000
+Malnad College of Engineering,Hassan,E047,E079,EE,Electrical and Electronics Engineering,60,27,18,15,3,121610,244000,30000
+Malnad College of Engineering,Hassan,E047,E079,EC,Electronics and Communication Engineering,120,54,36,30,6,121610,244000,30000
+Malnad College of Engineering,Hassan,E047,E079,RA,Robotics and Artificial Intelligence,60,27,18,15,3,121610,244000,30000
+,,,,,,,,,,,,,
+B M S College of Engineering,Bengaluru Urban,E048,E003,AD,Artificial Intelligence and Data Science,60,27,18,15,3,121610,244000,30000
+B M S College of Engineering,Bengaluru Urban,E048,E003,AM,Artificial Intelligence and Machine Learning,60,27,18,15,3,121610,244000,30000
+B M S College of Engineering,Bengaluru Urban,E048,E003,BT,Bio-Technology,60,27,18,15,3,121610,244000,30000
+B M S College of Engineering,Bengaluru Urban,E048,E003,CH,Chemical Engineering,60,27,18,15,3,121610,244000,30000
+B M S College of Engineering,Bengaluru Urban,E048,E003,CV,Civil Engineering,120,54,36,30,6,121610,244000,30000
+B M S College of Engineering,Bengaluru Urban,E048,E003,CB,Computer Science and Business Systems,60,27,18,15,3,121610,244000,30000
+B M S College of Engineering,Bengaluru Urban,E048,E003,CO,Computer Science and Engineering (IoT & Cyber Security),60,27,18,15,3,121610,244000,30000
+B M S College of Engineering,Bengaluru Urban,E048,E003,CS,Computer Science and Engineering,180,81,54,45,9,121610,244000,30000
+B M S College of Engineering,Bengaluru Urban,E048,E003,CD,Computer Science and Engineering (Data Science),60,27,18,15,3,121610,244000,30000
+B M S College of Engineering,Bengaluru Urban,E048,E003,EC,Electronics and Communication Engineering,180,81,54,45,9,121610,244000,30000
+B M S College of Engineering,Bengaluru Urban,E048,E003,ME,Mechanical Engineering,120,54,36,30,6,121610,244000,30000
+,,,,,,,,,,,,,
+"Basaveshwara Engineering College, Bagalkot", Bagalkot,E049,E018,AI,Artificial Intelligence & Machine Learning,60,24,18,18,3,130320,261410,32320
+"Basaveshwara Engineering College, Bagalkot", Bagalkot,E049,E018,AU,Automobile Engineering,30,12,9,9,1,130320,261410,32320
+"Basaveshwara Engineering College, Bagalkot", Bagalkot,E049,E018,BT,Bio-Technology,30,12,9,9,1,130320,261410,32320
+"Basaveshwara Engineering College, Bagalkot", Bagalkot,E049,E018,CE,Civil Engineering,60,24,18,18,3,130320,261410,32320
+"Basaveshwara Engineering College, Bagalkot", Bagalkot,E049,E018,CS,Computer Science and Engineering,180,72,54,54,9,130320,261410,32320
+"Basaveshwara Engineering College, Bagalkot", Bagalkot,E049,E018,EC,Electronics and Communication Engineering,120,48,36,36,6,130320,261410,32320
+"Basaveshwara Engineering College, Bagalkot", Bagalkot,E049,E018,EZ,Electronics & Computer Engineering,60,24,18,18,3,130320,261410,32320
+"Basaveshwara Engineering College, Bagalkot", Bagalkot,E049,E018,IS,Information Science and Engineering,120,48,36,36,6,130320,261410,32320
+,,,,,,,,,,,,,
+"KVG College of Engineering, Sullia, Dakshina Kannada",Dakshina Kannada,E054,E069,AI,Artificial Intelligence and Machine Learning,60,27,18,15,3,132910,274000,51110
+"KVG College of Engineering, Sullia, Dakshina Kannada",Dakshina Kannada,E054,E069,CV,Civil Engineering,30,14,9,7,2,132910,274000,51110
+"KVG College of Engineering, Sullia, Dakshina Kannada",Dakshina Kannada,E054,E069,CS,Computer Science and Engineering,60,27,18,15,3,132910,274000,51110
+"KVG College of Engineering, Sullia, Dakshina Kannada",Dakshina Kannada,E054,E069,EC,Electronics and Communication Engineering,60,27,18,15,3,132910,274000,51110
+,,,,,,,,,,,,,
+"P A College of Engineering, Mangalore (Bantwal)",Mangalore (Bantwal),E055,N/A,AI,Artificial Intelligence and Machine Learning,60,27,18,15,3,132910,274000,51110
+"P A College of Engineering, Mangalore (Bantwal)",Mangalore (Bantwal),E055,N/A,BT,Bio-Technology,30,14,9,7,2,132910,274000,51110
+"P A College of Engineering, Mangalore (Bantwal)",Mangalore (Bantwal),E055,N/A,CV,Civil Engineering,30,14,9,7,2,132910,274000,51110
+"P A College of Engineering, Mangalore (Bantwal)",Mangalore (Bantwal),E055,N/A,CO,Computer Science and Engg(Internet of Things & Cyber Security Including Block Chain Tech),30,14,9,7,2,132910,274000,51110
+"P A College of Engineering, Mangalore (Bantwal)",Mangalore (Bantwal),E055,N/A,CS,Computer Science and Engineering,120,54,36,30,6,132910,274000,51110
+"P A College of Engineering, Mangalore (Bantwal)",Mangalore (Bantwal),E055,N/A,ME,Mechanical Engineering,30,14,9,7,2,132910,274000,51110
+,,,,,,,,,,,,,
+The National Institute of Engineering (South Campus - Unaided),Mysuru,E056,E142,CV,Civil Engineering,27,12,8,7,1,83526,221960,44200
+The National Institute of Engineering (South Campus - Unaided),Mysuru,E056,E142,ME,Mechanical Engineering,27,12,8,7,1,83526,221960,44200
+The National Institute of Engineering (South Campus - Unaided),Mysuru,E056,E142,EE,Electrical & Electronics Engineering,54,24,16,14,2,83526,221960,44200
+The National Institute of Engineering (South Campus - Unaided),Mysuru,E056,E142,EC,Electronics & Communication Engineering,54,24,16,14,2,83526,221960,44200
+The National Institute of Engineering (South Campus - Unaided),Mysuru,E056,E142,CSE (AI&ML),Computer Science & Engineering (AI & ML),54,24,16,14,2,83526,221960,44200
+,,,,,,,,,,,,,
+JSS Science and Technology University (SJCE Campus),Mysuru,E057,E058,BT,Biotechnology,60,27,18,15,3,107856,264000,44200
+JSS Science and Technology University (SJCE Campus),Mysuru,E057,E058,CV,Civil Engineering,60,27,18,15,3,107856,264000,44200
+JSS Science and Technology University (SJCE Campus),Mysuru,E057,E058,CSBS,Computer Science & Business Systems,60,27,18,15,3,107856,264000,44200
+JSS Science and Technology University (SJCE Campus),Mysuru,E057,E058,CSE(AI&ML),CSE (Artificial Intelligence & ML),60,27,18,15,3,107856,264000,44200
+JSS Science and Technology University (SJCE Campus),Mysuru,E057,E058,CS,Computer Science & Engineering,180,81,54,45,9,107856,264000,44200
+JSS Science and Technology University (SJCE Campus),Mysuru,E057,E058,CTM,Construction Technology & Mgmt.,60,27,18,15,3,107856,264000,44200
+JSS Science and Technology University (SJCE Campus),Mysuru,E057,E058,EC,Electronics & Communication Engg.,120,54,36,30,6,107856,264000,44200
+JSS Science and Technology University (SJCE Campus),Mysuru,E057,E058,IS,Information Science & Engineering,120,54,36,30,6,107856,264000,44200
+JSS Science and Technology University (SJCE Campus),Mysuru,E057,E058,ME,Mechanical Engineering,60,27,18,15,3,107856,264000,44200
+,,,,,,,,,,,,,
+P E S College of Engineering,Mandya,E058,E094,CS,Computer Science & Engineering,180,81,54,45,9,107856,264000,44200
+P E S College of Engineering,Mandya,E058,E094,IS,Information Science & Engineering,120,54,36,30,6,107856,264000,44200
+P E S College of Engineering,Mandya,E058,E094,EC,Electronics & Communication Engineering,120,54,36,30,6,107856,264000,44200
+P E S College of Engineering,Mandya,E058,E094,EE,Electrical & Electronics Engineering (Aided),60,54,0,6,3,50000,N/A,44200
+P E S College of Engineering,Mandya,E058,E094,CE,Civil Engineering (Aided),60,54,0,6,3,50000,N/A,44200
+P E S College of Engineering,Mandya,E058,E094,ME,Mechanical Engineering (Aided),60,54,0,6,3,50000,N/A,44200
+P E S College of Engineering,Mandya,E058,E094,CSE(AI&ML),Computer Science & Engineering (Artificial Intelligence & ML),60,27,18,15,3,107856,264000,44200
+P E S College of Engineering,Mandya,E058,E094,CSE(DS),Computer Science & Engineering (Data Science),60,27,18,15,3,107856,264000,44200
+P E S College of Engineering,Mandya,E058,E094,CSBS,Computer Science & Business Systems,60,27,18,15,3,107856,264000,44200
+P E S College of Engineering,Mandya,E058,E094,RAI,Robotics & Artificial Intelligence,60,27,18,15,3,107856,264000,44200
+,,,,,,,,,,,,,
+P.D.A. College of Engineering,Kalaburagi,E059,E056,AI,Artificial Intelligence & Machine Learning,60,27,18,15,3,107856,264000,44200
+P.D.A. College of Engineering,Kalaburagi,E059,E056,CE,Civil Engineering (Aided),60,54,0,6,3,50000,N/A,44200
+P.D.A. College of Engineering,Kalaburagi,E059,E056,CSD,Computer Science & Design,60,27,18,15,3,107856,264000,44200
+P.D.A. College of Engineering,Kalaburagi,E059,E056,CS,Computer Science & Engineering,120,54,36,30,6,107856,264000,44200
+P.D.A. College of Engineering,Kalaburagi,E059,E056,EE,Electrical & Electronics Engineering (Aided),60,54,0,6,3,50000,N/A,44200
+P.D.A. College of Engineering,Kalaburagi,E059,E056,EC,Electronics & Communication Engineering,120,54,36,30,6,107856,264000,44200
+P.D.A. College of Engineering,Kalaburagi,E059,E056,EI,Electronics & Instrumentation Engineering,60,27,18,15,3,107856,264000,44200
+P.D.A. College of Engineering,Kalaburagi,E059,E056,IP,Industrial & Production Engineering,60,27,18,15,3,107856,264000,44200
+P.D.A. College of Engineering,Kalaburagi,E059,E056,IS,Information Science & Engineering,60,27,18,15,3,107856,264000,44200
+P.D.A. College of Engineering,Kalaburagi,E059,E056,ME,Mechanical Engineering (Aided),60,54,0,6,3,50000,N/A,44200
+,,,,,,,,,,,,,
+Dr. Ambedkar Institute of Technology,Bangalore Urban,E060,E040,AE,Aeronautical Engineering,60,27,18,15,3,107856,264000,44200
+Dr. Ambedkar Institute of Technology,Bangalore Urban,E060,E040,AI,Artificial Intelligence & Machine Learning,60,27,18,15,3,107856,264000,44200
+Dr. Ambedkar Institute of Technology,Bangalore Urban,E060,E040,CE,Civil Engineering (Aided),60,54,0,6,3,50000,N/A,44200
+Dr. Ambedkar Institute of Technology,Bangalore Urban,E060,E040,CSBS,Computer Science & Business Systems,60,27,18,15,3,107856,264000,44200
+Dr. Ambedkar Institute of Technology,Bangalore Urban,E060,E040,CS,Computer Science & Engineering,180,81,54,45,9,107856,264000,44200
+Dr. Ambedkar Institute of Technology,Bangalore Urban,E060,E040,CSD,Computer Science & Engineering (Data Science),60,27,18,15,3,107856,264000,44200
+Dr. Ambedkar Institute of Technology,Bangalore Urban,E060,E040,EC,Electronics & Communication Engineering,180,81,54,45,9,107856,264000,44200
+Dr. Ambedkar Institute of Technology,Bangalore Urban,E060,E040,EV,Electronics & Communication Engg (VLSI Design),60,27,18,15,3,107856,264000,44200
+Dr. Ambedkar Institute of Technology,Bangalore Urban,E060,E040,IS,Information Science & Engineering,120,54,36,30,6,107856,264000,44200
+Dr. Ambedkar Institute of Technology,Bangalore Urban,E060,E040,EE,Electrical & Electronics Engineering (Aided),60,54,0,6,3,50000,N/A,44200
+Dr. Ambedkar Institute of Technology,Bangalore Urban,E060,E040,ME,Mechanical Engineering (Aided),60,54,0,6,3,50000,N/A,44200
+,,,,,,,,,,,,,
+University B.D.T. College of Engineering (UBDTE),Davanagere,E061,N/A,CE,Civil Engineering,60,60,0,0,3,56500,N/A,4500
+University B.D.T. College of Engineering (UBDTE),Davanagere,E061,N/A,CS,Computer Science & Engineering,60,60,0,0,3,56500,N/A,4500
+University B.D.T. College of Engineering (UBDTE),Davanagere,E061,N/A,EE,Electrical & Electronics Engineering,60,60,0,0,3,56500,N/A,4500
+University B.D.T. College of Engineering (UBDTE),Davanagere,E061,N/A,EC,Electronics & Communication Engineering,60,60,0,0,3,56500,N/A,4500
+University B.D.T. College of Engineering (UBDTE),Davanagere,E061,N/A,EI,Electronics & Instrumentation Engineering,60,60,0,0,3,56500,N/A,4500
+University B.D.T. College of Engineering (UBDTE),Davanagere,E061,N/A,ME,Mechanical Engineering,60,60,0,0,3,56500,N/A,4500
+University B.D.T. College of Engineering (UBDTE),Davanagere,E061,N/A,RAI,Robotics & Artificial Intelligence,60,60,0,0,3,56500,N/A,4500
+,,,,,,,,,,,,,
+Bapuji Institute of Engineering & Technology,Davanagere,E062,E118,AI,Artificial Intelligence & Machine Learning,60,27,18,15,3,107856,264000,44200
+Bapuji Institute of Engineering & Technology,Davanagere,E062,E118,BT,Biotechnology,60,27,18,15,3,107856,264000,44200
+Bapuji Institute of Engineering & Technology,Davanagere,E062,E118,CH,Chemical Engineering,60,27,18,15,3,107856,264000,44200
+Bapuji Institute of Engineering & Technology,Davanagere,E062,E118,CE,Civil Engineering,60,27,18,15,3,107856,264000,44200
+Bapuji Institute of Engineering & Technology,Davanagere,E062,E118,CSBS,Computer Science & Business Systems,60,27,18,15,3,107856,264000,44200
+Bapuji Institute of Engineering & Technology,Davanagere,E062,E118,CSD,Computer Science & Design,60,27,18,15,3,107856,264000,44200
+Bapuji Institute of Engineering & Technology,Davanagere,E062,E118,CS,Computer Science & Engineering,120,54,36,30,6,107856,264000,44200
+Bapuji Institute of Engineering & Technology,Davanagere,E062,E118,CSD,CSE (Data Science),60,27,18,15,3,107856,264000,44200
+Bapuji Institute of Engineering & Technology,Davanagere,E062,E118,EE,Electrical & Electronics Engineering,60,27,18,15,3,107856,264000,44200
+Bapuji Institute of Engineering & Technology,Davanagere,E062,E118,EC,Electronics & Communication Engineering,120,54,36,30,6,107856,264000,44200
+Bapuji Institute of Engineering & Technology,Davanagere,E062,E118,IS,Information Science & Engineering,120,54,36,30,6,107856,264000,44200
+Bapuji Institute of Engineering & Technology,Davanagere,E062,E118,ME,Mechanical Engineering,60,27,18,15,3,107856,264000,44200
+Bapuji Institute of Engineering & Technology,Davanagere,E062,E118,TX,Textiles Technology,60,27,18,15,3,107856,264000,44200
+,,,,,,,,,,,,,
+S J M Institute of Technology,Chitradurga,E063,E062,AI,Artificial Intelligence & Machine Learning,60,27,18,15,3,107856,264000,44200
+S J M Institute of Technology,Chitradurga,E063,E062,CE,Civil Engineering,60,27,18,15,3,107856,264000,44200
+S J M Institute of Technology,Chitradurga,E063,E062,CS,Computer Science & Engineering,60,27,18,15,3,107856,264000,44200
+S J M Institute of Technology,Chitradurga,E063,E062,EE,Electrical & Electronics Engineering,60,27,18,15,3,107856,264000,44200
+S J M Institute of Technology,Chitradurga,E063,E062,EC,Electronics & Communication Engineering,60,27,18,15,3,107856,264000,44200
+S J M Institute of Technology,Chitradurga,E063,E062,ME,Mechanical Engineering,60,27,18,15,3,107856,264000,44200
+,,,,,,,,,,,,,
+Adichunchanagiri Institute of Technology,Chikkamagaluru,E064,E008,AI,Artificial Intelligence & Machine Learning,60,27,18,15,3,107856,264000,44200
+Adichunchanagiri Institute of Technology,Chikkamagaluru,E064,E008,CE,Civil Engineering,60,27,18,15,3,107856,264000,44200
+Adichunchanagiri Institute of Technology,Chikkamagaluru,E064,E008,CS,Computer Science & Engineering,120,54,36,30,6,107856,264000,44200
+Adichunchanagiri Institute of Technology,Chikkamagaluru,E064,E008,CSD,Computer Science & Engineering (Data Science),60,27,18,15,3,107856,264000,44200
+Adichunchanagiri Institute of Technology,Chikkamagaluru,E064,E008,EE,Electrical & Electronics Engineering,60,27,18,15,3,107856,264000,44200
+Adichunchanagiri Institute of Technology,Chikkamagaluru,E064,E008,EC,Electronics & Communication Engineering,120,54,36,30,6,107856,264000,44200
+Adichunchanagiri Institute of Technology,Chikkamagaluru,E064,E008,IS,Information Science & Engineering,60,27,18,15,3,107856,264000,44200
+Adichunchanagiri Institute of Technology,Chikkamagaluru,E064,E008,ME,Mechanical Engineering,60,27,18,15,3,107856,264000,44200
+Adichunchanagiri Institute of Technology,Chikkamagaluru,E064,E008,RAI,Robotics & Artificial Intelligence,30,13,9,8,1,107856,264000,44200
+,,,,,,,,,,,,,
+Jawaharlal Nehru National College of Engineering,Shivamogga,E065,E067,AI,Artificial Intelligence & Machine Learning,60,27,18,15,3,107856,264000,44200
+Jawaharlal Nehru National College of Engineering,Shivamogga,E065,E067,CE,Civil Engineering,60,27,18,15,3,107856,264000,44200
+Jawaharlal Nehru National College of Engineering,Shivamogga,E065,E067,CS,Computer Science & Engineering,180,81,54,45,9,107856,264000,44200
+Jawaharlal Nehru National College of Engineering,Shivamogga,E065,E067,CSD,Computer Science & Engineering (Data Science),60,27,18,15,3,107856,264000,44200
+Jawaharlal Nehru National College of Engineering,Shivamogga,E065,E067,EE,Electrical & Electronics Engineering,60,27,18,15,3,107856,264000,44200
+Jawaharlal Nehru National College of Engineering,Shivamogga,E065,E067,EC,Electronics & Communication Engineering,120,54,36,30,6,107856,264000,44200
+Jawaharlal Nehru National College of Engineering,Shivamogga,E065,E067,ET,Electronics & Telecommunication Engineering,60,27,18,15,3,107856,264000,44200
+Jawaharlal Nehru National College of Engineering,Shivamogga,E065,E067,IS,Information Science & Engineering,120,54,36,30,6,107856,264000,44200
+Jawaharlal Nehru National College of Engineering,Shivamogga,E065,E067,ME,Mechanical Engineering,60,27,18,15,3,107856,264000,44200
+Jawaharlal Nehru National College of Engineering,Shivamogga,E065,E067,RAI,Robotics & Artificial Intelligence,30,13,9,8,1,107856,264000,44200
+,,,,,,,,,,,,,
+University B.D.T. College of Engineering,Davanagere,E066,N/A,CE,Civil Engineering,60,60,0,0,3,42114,0,24430
+University B.D.T. College of Engineering,Davanagere,E066,N/A,CS,Computer Science and Engineering,120,120,0,0,6,42114,0,24430
+University B.D.T. College of Engineering,Davanagere,E066,N/A,EE,Electrical & Electronics Engineering,60,60,0,0,3,42114,0,24430
+University B.D.T. College of Engineering,Davanagere,E066,N/A,EC,Electronics & Communication Engineering,60,60,0,0,3,42114,0,24430
+University B.D.T. College of Engineering,Davanagere,E066,N/A,EI,Electronics & Instrumentation Engineering,60,60,0,0,3,42114,0,24430
+University B.D.T. College of Engineering,Davanagere,E066,N/A,ME,Mechanical Engineering,60,60,0,0,3,42114,0,24430
+University B.D.T. College of Engineering,Davanagere,E066,N/A,RA,Robotics and Artificial Intelligence,60,60,0,0,3,42114,0,24430
+,,,,,,,,,,,,,
+Bahubali College of Engineering,Hassan,E070,N/A,AI,Artificial Intelligence & Machine Learning,60,27,18,15,3,107856,264000,44200
+Bahubali College of Engineering,Hassan,E070,N/A,CE,Civil Engineering,30,13,9,8,1,107856,264000,44200
+Bahubali College of Engineering,Hassan,E070,N/A,CS,Computer Science & Engineering,60,27,18,15,3,107856,264000,44200
+Bahubali College of Engineering,Hassan,E070,N/A,EC,Electronics & Communication Engineering,60,27,18,15,3,107856,264000,44200
+Bahubali College of Engineering,Hassan,E070,N/A,IS,Information Science & Engineering,60,27,18,15,3,107856,264000,44200
+Bahubali College of Engineering,Hassan,E070,N/A,ME,Mechanical Engineering,30,13,9,8,1,107856,264000,44200
+,,,,,,,,,,,,,
+Vidya Vardhaka College of Engineering,Mysuru,E071,E144,AI,Artificial Intelligence & Machine Learning,60,27,18,15,3,107856,264000,44200
+Vidya Vardhaka College of Engineering,Mysuru,E071,E144,CE,Civil Engineering,60,27,18,15,3,107856,264000,44200
+Vidya Vardhaka College of Engineering,Mysuru,E071,E144,CS,Computer Science & Engineering,180,81,54,45,9,107856,264000,44200
+Vidya Vardhaka College of Engineering,Mysuru,E071,E144,EE,Electrical & Electronics Engineering,60,27,18,15,3,107856,264000,44200
+Vidya Vardhaka College of Engineering,Mysuru,E071,E144,EC,Electronics & Communication Engineering,180,81,54,45,9,107856,264000,44200
+Vidya Vardhaka College of Engineering,Mysuru,E071,E144,IS,Information Science & Engineering,120,54,36,30,6,107856,264000,44200
+Vidya Vardhaka College of Engineering,Mysuru,E071,E144,ME,Mechanical Engineering,90,40,27,23,4,107856,264000,44200
+,,,,,,,,,,,,,
+Ballari Institute of Technology & Management,Ballari,E075,E014,CS,Computer Science and Engineering,180,81,54,45,9,121610,264000,30610
+Ballari Institute of Technology & Management,Ballari,E075,E014,EC,Electronics & Communication Engineering,120,54,36,30,6,121610,264000,30610
+Ballari Institute of Technology & Management,Ballari,E075,E014,AI,Artificial Intelligence and Machine Learning,60,27,18,15,3,121610,264000,30610
+Ballari Institute of Technology & Management,Ballari,E075,E014,CA,Computer Science and Engg (Artificial Intelligence),60,27,18,15,3,121610,264000,30610
+Ballari Institute of Technology & Management,Ballari,E075,E014,DS,Computer Science and Engineering (Data Science),60,27,18,15,3,121610,264000,30610
+Ballari Institute of Technology & Management,Ballari,E075,E014,EE,Electrical & Electronics Engineering,60,27,18,15,3,121610,264000,30610
+Ballari Institute of Technology & Management,Ballari,E075,E014,CV,Civil Engineering,60,27,18,15,3,121610,264000,30610
+Ballari Institute of Technology & Management,Ballari,E075,E014,ME,Mechanical Engineering,60,27,18,15,3,121610,264000,30610
+,,,,,,,,,,,,,
+Proudadevaraya Institute of Technology,Vijayanagara,E076,E094,CS,Computer Science and Engineering,60,27,18,15,3,121610,264000,30610
+Proudadevaraya Institute of Technology,Vijayanagara,E076,E094,CA,Computer Science & Engg (AI & ML),60,27,18,15,3,121610,264000,30610
+Proudadevaraya Institute of Technology,Vijayanagara,E076,E094,EC,Electronics and Communication Engineering,60,27,18,15,3,121610,264000,30610
+Proudadevaraya Institute of Technology,Vijayanagara,E076,E094,EE,Electrical & Electronics Engineering,60,27,18,15,3,121610,264000,30610
+Proudadevaraya Institute of Technology,Vijayanagara,E076,E094,CV,Civil Engineering,60,27,18,15,3,121610,264000,30610
+Proudadevaraya Institute of Technology,Vijayanagara,E076,E094,ME,Mechanical Engineering,60,27,18,15,3,121610,264000,30610
+,,,,,,,,,,,,,
+Vidya Vikas Institute of Engineering & Technology,Mysuru,E077,E146,CS,Computer Science and Engineering,120,54,36,30,6,120320,244000,32320
+Vidya Vikas Institute of Engineering & Technology,Mysuru,E077,E146,IS,Information Science and Engineering,60,27,18,15,3,120320,244000,32320
+Vidya Vikas Institute of Engineering & Technology,Mysuru,E077,E146,EC,Electronics and Communication Engineering,60,27,18,15,3,120320,244000,32320
+Vidya Vikas Institute of Engineering & Technology,Mysuru,E077,E146,EE,Electrical and Electronics Engineering,60,27,18,15,3,120320,244000,32320
+Vidya Vikas Institute of Engineering & Technology,Mysuru,E077,E146,CV,Civil Engineering,60,27,18,15,3,120320,244000,32320
+,,,,,,,,,,,,,
+The Oxford College of Engineering,Bengaluru,E078,E162,CS,Computer Science and Engineering,180,81,54,45,9,121610,264000,30610
+The Oxford College of Engineering,Bengaluru,E078,E162,IS,Information Science and Engineering,120,54,36,30,6,121610,264000,30610
+The Oxford College of Engineering,Bengaluru,E078,E162,EC,Electronics & Communication Engineering,120,54,36,30,6,121610,264000,30610
+The Oxford College of Engineering,Bengaluru,E078,E162,AI,Artificial Intelligence and Data Science,60,27,18,15,3,121610,264000,30610
+The Oxford College of Engineering,Bengaluru,E078,E162,AM,Artificial Intelligence and Machine Learning,60,27,18,15,3,121610,264000,30610
+The Oxford College of Engineering,Bengaluru,E078,E162,BT,Bio-Technology,60,27,18,15,3,121610,264000,30610
+The Oxford College of Engineering,Bengaluru,E078,E162,EE,Electrical & Electronics Engineering,60,27,18,15,3,121610,264000,30610
+The Oxford College of Engineering,Bengaluru,E078,E162,CV,Civil Engineering,60,27,18,15,3,121610,264000,30610
+The Oxford College of Engineering,Bengaluru,E078,E162,ME,Mechanical Engineering,60,27,18,15,3,121610,264000,30610
+The Oxford College of Engineering,Bengaluru,E078,E162,MT,Mechatronics Engineering,60,27,18,15,3,121610,264000,30610
+,,,,,,,,,,,,,
+Acharya Institute of Technology,Bengaluru Urban,E079,E006,AE,Aeronautical Engineering,60,27,18,15,3,141756,264000,32320
+Acharya Institute of Technology,Bengaluru Urban,E079,E006,AI,Artificial Intelligence & Machine Learning,120,54,36,30,6,141756,264000,32320
+Acharya Institute of Technology,Bengaluru Urban,E079,E006,BT,Biotechnology,60,27,18,15,3,141756,264000,32320
+Acharya Institute of Technology,Bengaluru Urban,E079,E006,CE,Civil Engineering,30,14,9,8,2,141756,264000,32320
+Acharya Institute of Technology,Bengaluru Urban,E079,E006,CS,Computer Science & Engineering,180,81,54,45,9,141756,264000,32320
+Acharya Institute of Technology,Bengaluru Urban,E079,E006,DS,Computer Science & Engineering (Data Science),120,54,36,30,6,141756,264000,32320
+Acharya Institute of Technology,Bengaluru Urban,E079,E006,EE,Electrical & Electronics Engineering,60,27,18,15,3,141756,264000,32320
+Acharya Institute of Technology,Bengaluru Urban,E079,E006,EC,Electronics & Communication Engineering,120,54,36,30,6,141756,264000,32320
+Acharya Institute of Technology,Bengaluru Urban,E079,E006,IS,Information Science & Engineering,120,54,36,30,6,141756,264000,32320
+Acharya Institute of Technology,Bengaluru Urban,E079,E006,ME,Mechanical Engineering,30,14,9,8,2,141756,264000,32320
+Acharya Institute of Technology,Bengaluru Urban,E079,E006,MT,Mechatronics Engineering,60,27,18,15,3,141756,264000,32320
+,,,,,,,,,,,,,
+Sri Siddhartha School of Engineering,Tumkur,E081,E135,AM,Artificial Intelligence and Machine Learning,60,27,18,15,3,121610,264000,30610
+Sri Siddhartha School of Engineering,Tumkur,E081,E135,CS,Computer Science and Engineering,60,27,18,15,3,121610,264000,30610
+Sri Siddhartha School of Engineering,Tumkur,E081,E135,CY,Computer Science & Engg (Cyber Security),60,27,18,15,3,121610,264000,30610
+Sri Siddhartha School of Engineering,Tumkur,E081,E135,DS,Computer Science & Engg (Data Science),60,27,18,15,3,121610,264000,30610
+Sri Siddhartha School of Engineering,Tumkur,E081,E135,IS,Information Science and Engineering,60,27,18,15,3,121610,264000,30610
+Sri Siddhartha School of Engineering,Tumkur,E081,E135,EC,Electronics & Communication Engineering,60,27,18,15,3,121610,264000,30610
+Sri Siddhartha School of Engineering,Tumkur,E081,E135,EE,Electrical & Electronics Engineering,60,27,18,15,3,121610,264000,30610
+Sri Siddhartha School of Engineering,Tumkur,E081,E135,CV,Civil Engineering,60,27,18,15,3,121610,264000,30610
+Sri Siddhartha School of Engineering,Tumkur,E081,E135,ME,Mechanical Engineering,60,27,18,15,3,121610,264000,30610
+,,,,,,,,,,,,,
+J S S Academy of Technical Education,Bengaluru Urban,E082,E057,CV,Civil Engineering,60,27,18,15,3,120320,244000,32320
+J S S Academy of Technical Education,Bengaluru Urban,E082,E057,AI,Computer Science and Engg(Artificial Intelligence and Machine Learning),60,27,18,15,3,120320,244000,32320
+J S S Academy of Technical Education,Bengaluru Urban,E082,E057,CS,Computer Science and Engineering,180,81,54,45,9,120320,244000,32320
+J S S Academy of Technical Education,Bengaluru Urban,E082,E057,EC,Electronics and Communication Engineering,180,81,54,45,9,120320,244000,32320
+J S S Academy of Technical Education,Bengaluru Urban,E082,E057,EI,Electronics and Instrumentation Engineering,60,27,18,15,3,120320,244000,32320
+J S S Academy of Technical Education,Bengaluru Urban,E082,E057,IS,Information Science and Engineering,120,54,36,30,6,120320,244000,32320
+J S S Academy of Technical Education,Bengaluru Urban,E082,E057,ME,Mechanical Engineering,60,27,18,15,3,120320,244000,32320
+J S S Academy of Technical Education,Bengaluru Urban,E082,E057,RO,Robotics and Automation,60,27,18,15,3,120320,244000,32320
+,,,,,,,,,,,,,
+HKBK College of Engineering,Bengaluru Urban,E083,N\A,AI,Artificial Intelligence & Machine Learning,60,27,18,15,3,120320,244000,32320
+HKBK College of Engineering,Bengaluru Urban,E083,N\A,CS,Computer Science & Engineering,180,81,54,45,9,120320,244000,32320
+HKBK College of Engineering,Bengaluru Urban,E083,N\A,EC,Electronics & Communication Engineering,120,54,36,30,6,120320,244000,32320
+HKBK College of Engineering,Bengaluru Urban,E083,N\A,IS,Information Science & Engineering,60,27,18,15,3,120320,244000,32320
+HKBK College of Engineering,Bengaluru Urban,E083,N\A,ME,Mechanical Engineering,30,13,9,8,1,120320,244000,32320
+,,,,,,,,,,,,,
+APS College of Engineering,Bengaluru,E085,E011,CS,Computer Science and Engineering,120,54,36,30,6,121610,264000,30610
+APS College of Engineering,Bengaluru,E085,E011,IS,Information Science and Engineering,60,27,18,15,3,121610,264000,30610
+APS College of Engineering,Bengaluru,E085,E011,EC,Electronics & Communication Engineering,60,27,18,15,3,121610,264000,30610
+APS College of Engineering,Bengaluru,E085,E011,AI,Artificial Intelligence & Machine Learning,60,27,18,15,3,121610,264000,30610
+APS College of Engineering,Bengaluru,E085,E011,CY,Computer Science & Engg (Cyber Security),60,27,18,15,3,121610,264000,30610
+APS College of Engineering,Bengaluru,E085,E011,CV,Civil Engineering,30,13,9,8,1,121610,264000,30610
+APS College of Engineering,Bengaluru,E085,E011,ME,Mechanical Engineering,30,13,9,8,1,121610,264000,30610
+,,,,,,,,,,,,,
+Sri Sairam College Of Engineering,Bengaluru Urban,E086,E121,AI,Artificial Intelligence and Machine Learning,60,27,18,15,3,120320,244000,32320
+Sri Sairam College Of Engineering,Bengaluru Urban,E086,E121,IOT,Computer Science and Engg (IoT & Cyber Security inc. Blockchain),60,27,18,15,3,120320,244000,32320
+Sri Sairam College Of Engineering,Bengaluru Urban,E086,E121,CS,Computer Science and Engineering,120,54,36,30,6,120320,244000,32320
+Sri Sairam College Of Engineering,Bengaluru Urban,E086,E121,EE,Electrical & Electronics Engineering,30,13,9,8,1,120320,244000,32320
+Sri Sairam College Of Engineering,Bengaluru Urban,E086,E121,EC,Electronics and Communication Engineering,60,27,18,15,3,120320,244000,32320
+Sri Sairam College Of Engineering,Bengaluru Urban,E086,E121,IS,Information Science and Engineering,60,27,18,15,3,120320,244000,32320
+Sri Sairam College Of Engineering,Bengaluru Urban,E086,E121,ME,Mechanical Engineering,30,13,9,8,1,120320,244000,32320
+,,,,,,,,,,,,,
+Vivekananda Institute of Technology,Bengaluru Urban,E087,E149,AI,Artificial Intelligence and Machine Learning,60,27,18,15,3,120320,244000,32320
+Vivekananda Institute of Technology,Bengaluru Urban,E087,E149,CE,Civil Engineering,30,13,9,8,1,120320,244000,32320
+Vivekananda Institute of Technology,Bengaluru Urban,E087,E149,CS,Computer Science and Engineering,60,27,18,15,3,120320,244000,32320
+Vivekananda Institute of Technology,Bengaluru Urban,E087,E149,EC,Electronics and Communication Engineering,60,27,18,15,3,120320,244000,32320
+Vivekananda Institute of Technology,Bengaluru Urban,E087,E149,IS,Information Science and Engineering,60,27,18,15,3,120320,244000,32320
+Vivekananda Institute of Technology,Bengaluru Urban,E087,E149,ME,Mechanical Engineering,30,13,9,8,1,120320,244000,32320
